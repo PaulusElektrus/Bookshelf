@@ -1,6 +1,6 @@
 # Bookshelf App
 
-The app that helps you track the books you have and haven't finished. Build with Flet.
+The app that helps you track the books you have and haven't finished. Build with [Flet](https://github.com/flet-dev/flet).
 
 To run the app install `flet` module:
 
