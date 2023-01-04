@@ -1,6 +1,6 @@
 # Bookshelf App
 
-The app that helps you track the books you have and haven't finished. Build with [Flet](https://github.com/flet-dev/flet).
+The app that helps you track the books you have and haven't finished. Build with Flet.
 
 To run the app install `flet` module:
 
@@ -14,7 +14,9 @@ and run the program:
 python flet_app.py
 ```
 
-The app will be started in a native OS window.
+The app will be started in a native OS window:
+
+![Screenshot](Screenshot.png)
 
 If you want to run the app as a web app, just replace the last line in flet_app.py with:
 
